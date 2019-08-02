@@ -29,7 +29,7 @@ end
 def update_counting_hash(hash, key)
 hash = {key =>2}
 hash[:new_key] = 1
-
+hash
 
 end
 
